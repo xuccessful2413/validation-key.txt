@@ -1,2 +1,3 @@
 # validation-key.txt
-https://sandbox.kycpi-43407340db091cad/validation-key.txt
+https://xuccessfulapp.com/validation-key.txt
+4439fcf3a8f76ea9ecdd062b7e80f9b47bbbc5896cd2db60ca20fd8c4f4ac458568eba8d42afce08b39440d258f8ec4966ae4bc6e1b50d5c12840defeb2d7424
